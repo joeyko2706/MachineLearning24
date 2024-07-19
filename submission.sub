@@ -1,0 +1,10 @@
+Executable      =   BrainTumour.sh
+Log             =   constit.log
+Error           =   constit.err
+Output          =   constit.out
+universe        =   vanilla
+request_cpus    =   4
+request_memory  =   50GB
+notify_user     =   joel.koch@tu-dortmund.de
+notification    =   Always
+requirements = has_avx
